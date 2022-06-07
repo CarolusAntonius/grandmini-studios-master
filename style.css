@@ -60,7 +60,7 @@ li {
 }
 
 h1 {
-  font-size: max(6vw, 40px);
+  font-size: max(6vw, 60px);
 }
 h2 {
   font-size: max(2.2vw, 30px);
@@ -111,7 +111,7 @@ main img:hover,
 }
 
 main {
-  background-image: url(bilder/slaget-vid-narva-tva.jpg);
+  background-image: url(bilder/slaget-vid-narva-tva.webp);
   background-position: left;
   background-repeat: no-repeat;
   background-size: cover;
@@ -121,7 +121,7 @@ main {
 }
 header {
   border: solid#c4ae08 5px;
-  background-image: url(bilder/stora-nordiska-kriget-karta.jpg);
+  background-image: url(bilder/stora-nordiska-kriget-karta.webp);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -130,7 +130,7 @@ footer {
   padding: 2em;
   background-color: #011030;
   border: solid#c4ae08 5px;
-  background-image: url(bilder/stora-nordiska-kriget-karta.jpg);
+  background-image: url(bilder/stora-nordiska-kriget-karta.webp);
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -143,7 +143,7 @@ footer {
   margin-right: auto;
   margin-top: 2em;
   margin-bottom: 2em;
-  background-image: url(bilder/bakgrund.jpg);
+  background-image: url(bilder/bakgrund.webp);
   background-position: center;
   background-size: cover;
 }
@@ -188,12 +188,12 @@ img {
     margin-bottom: 0.5em;
   }
   main {
-    background-image: url(bilder/slaget-vid-narva-tva.jpg);
+    background-image: url(bilder/slaget-vid-narva-tva.webp);
   }
 }
 @media (min-width: 589px) {
   main {
-    background-image: url(bilder/slaget-vid-narva.jpg);
+    background-image: url(bilder/slaget-vid-narva.webp);
   }
 }
 @media (max-width: 839px) {
