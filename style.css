@@ -197,8 +197,9 @@ img {
   }
 }
 @media (max-width: 839px) {
-  p,
-main a {
+p,
+main a,
+li {
   font-size: max(3.3vw, 18px);
 }  
   .steamdeltva,
