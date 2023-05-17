@@ -32,19 +32,22 @@ h2 {
   padding: 2rem;
   border: 5px solid #c4ae08;
   background-color: #f5f5f5;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 #indexdel {
   background-image: url(bilder/bakgrund.webp);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 header {
   padding: 1rem;
   border: 5px solid #c4ae08;
   background-image: url(bilder/stora-nordiska-kriget-karta.webp);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 footer {
@@ -52,6 +55,9 @@ footer {
   background-color: #011030;
   border: 5px solid #c4ae08;
   background-image: url(bilder/stora-nordiska-kriget-karta.webp);
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #english-website {
@@ -132,11 +138,17 @@ img {
 @media (max-width: 588px) {
   main {
     background-image: url(bilder/slaget-vid-narva-tva.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 }
 
 @media (min-width: 589px) {
   main {
     background-image: url(bilder/slaget-vid-narva.webp);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 }
